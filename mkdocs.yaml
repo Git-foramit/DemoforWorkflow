@@ -1,4 +1,5 @@
 site_name: MkDocs Demo
+site_url: https://example.com/foo/
 site_description: Project documentation with Markdown.
 site_author: MkDocs Demo
 
