@@ -1,5 +1,5 @@
 site_name: MkDocs Demo
-site_url: https://example.com/foo/
+site_url: http://127.0.0.1:8000/
 site_description: Project documentation with Markdown.
 site_author: MkDocs Demo
 
